@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry:@valueI"é      <div class="entry">
+        <img src="/assets/cs-f56ef62bc41b040664e801a38f068082a75d506d9048307e8096737463503d0b.jpg" alt="Cs" />
+        <h3> CoffeeScript</h3>
+        <p>
+                CoffeeScript is JavaScript done right. It provides all of JavaScript's
+                functionality wrapped in a cleaner, more succinct syntax. In the first
+                book on this exciting new language, CoffeeScript guru Trevor Burnham
+                shows you how to hold onto all the power and flexibility of JavaScript
+                while writing clearer, cleaner, and safer code.
+                </p>
+        <div class="price_line">
+          <span class="price">$36.00</span>
+          <span>Hello</span>
+        </div>
+      </div>
+:ET:@created_atf1487871939.622614:@expires_in0
